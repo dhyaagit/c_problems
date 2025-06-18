@@ -1,4 +1,4 @@
-
+// this is a repo for learning functions in c that handels the basic operators for starting.
 
 /*
 #include <stdio.h>
