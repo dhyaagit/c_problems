@@ -55,3 +55,6 @@ To compile and run any of the `.c` files, follow these steps:
 ├── ...  
 ├── 70-recursive-factorial.c  
 └── README.md  
+
+## 🤝 Contributing
+This repository is primarily for my own learning, but please feel free to contribute. If you encounter a bug or wish to suggest an improvement, please open an issue or submit a pull request.
