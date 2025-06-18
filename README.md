@@ -16,8 +16,11 @@ Exercises span a variety of basic programming concepts, including:
 - Arrays and strings
 - Pointers (basic usage)
 - Recursion
-- Mathematical and algorithmic problem-solving
-
+- Basic algorithms (searching, sorting, etc.)
+- Introduction to data structures:
+  - Structures (`struct`)
+  - Linked lists
+  - Stacks and queues
 ---
 ## 📝 Exercise Source
 
