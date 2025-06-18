@@ -1,3 +1,4 @@
 {
-    "discord.removeLowerDetails": true
+    "discord.removeLowerDetails": true,
+    "C_Cpp.errorSquiggles": "disabled"
 }
