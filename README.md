@@ -48,10 +48,10 @@ To compile and run any of the `.c` files, follow these steps:
 
 ## 📂 Folder Structure
 
-/ C-Problems /
-├── 01-hello-world.c
-├── 02-sum-of-two-numbers.c
-├── 03-maximum-of-three.c
-├── ...
-├── 70-recursive-factorial.c
-└── README.md
+/ C-Problems /  
+├── 01-hello-world.c  
+├── 02-sum-of-two-numbers.c  
+├── 03-maximum-of-three.c  
+├── ...  
+├── 70-recursive-factorial.c  
+└── README.md  
